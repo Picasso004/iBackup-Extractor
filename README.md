@@ -24,7 +24,7 @@ To clone the IbackupExtractor project from GitLab, follow these steps:
 3. Run the following command to clone the repository:
 
    ```
-   git clone https://gitlab.com/erasmus-team/ibackup-extractor
+   git clone https://github.com/Picasso004/iBackup-Extractor.git
    ```
 
 4. After the repository has been cloned, navigate to the project folder:
